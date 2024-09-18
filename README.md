@@ -15,4 +15,4 @@ Development Team: Julio, Guilherme e Pedro.
 
 - Visão
 
-  Simplificar o trabalho tanto do caixa, quanto do estoque afim de ter uma melhor organização.
+  Simplificar o trabalho tanto do caixa, quanto do estoque afim de ter uma melhor organização no dia a dia.
